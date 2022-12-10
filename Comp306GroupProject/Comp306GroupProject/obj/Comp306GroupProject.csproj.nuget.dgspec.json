@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Casro\\Source\\Repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj": {}
+    "C:\\Users\\Casro\\source\\repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Casro\\Source\\Repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj": {
+    "C:\\Users\\Casro\\source\\repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casro\\Source\\Repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj",
+        "projectUniqueName": "C:\\Users\\Casro\\source\\repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj",
         "projectName": "Comp306GroupProject",
-        "projectPath": "C:\\Users\\Casro\\Source\\Repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj",
+        "projectPath": "C:\\Users\\Casro\\source\\repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj",
         "packagesPath": "C:\\Users\\Casro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casro\\Source\\Repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\obj\\",
+        "outputPath": "C:\\Users\\Casro\\source\\repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Casro\\AppData\\Roaming\\NuGet\\NuGet.Config",

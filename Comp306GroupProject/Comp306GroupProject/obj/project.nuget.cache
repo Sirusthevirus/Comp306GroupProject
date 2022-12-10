@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qiQJxmziS/ollUPTw2rvJ5PsdchVOWypUdS/OHQ9T36jfSuR8m/m3yItDopxo8hJcjyhSYL6u2RmDq8DfkuVAQ==",
+  "dgSpecHash": "0jla3XA9jcJLa1rSZDVdxVQ8ubDxK4HfD7f29ctf/KT8iOMeQ44ty9HGiXji5mQAXh9ZpkbSQZSe2CeUQyEuwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Casro\\Source\\Repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj",
+  "projectFilePath": "C:\\Users\\Casro\\source\\repos\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Casro\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Casro\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
