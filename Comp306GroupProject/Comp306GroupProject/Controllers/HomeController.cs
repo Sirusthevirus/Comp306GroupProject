@@ -12,7 +12,10 @@ namespace Comp306GroupProject.Controllers
         {
             _logger = logger;
         }
-
+        /// <summary>
+        /// //
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             return View();
