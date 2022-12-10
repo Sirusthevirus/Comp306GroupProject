@@ -13,11 +13,8 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Casro\\Source\\Repos\\Comp306GroupProject2\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj",
       "projectName": "Comp306GroupProject",
-      "projectPath": "C:\\Users\\Casro\\Source\\Repos\\Comp306GroupProject2\\Comp306GroupProject\\Comp306GroupProject\\Comp306GroupProject.csproj",
       "packagesPath": "C:\\Users\\Casro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Casro\\Source\\Repos\\Comp306GroupProject2\\Comp306GroupProject\\Comp306GroupProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Casro\\AppData\\Roaming\\NuGet\\NuGet.Config",
