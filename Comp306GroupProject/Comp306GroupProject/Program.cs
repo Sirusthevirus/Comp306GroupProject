@@ -1,7 +1,17 @@
+using Comp306GroupProject.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+////Add DbContext to DI
+//builder.Services.AddDbContext<AppDbContext>();
+
+////SetDatabase Connection
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContextPool<AppDbContext>(options => options.UseSqlServer(connectionString));
 
 var app = builder.Build();
 
