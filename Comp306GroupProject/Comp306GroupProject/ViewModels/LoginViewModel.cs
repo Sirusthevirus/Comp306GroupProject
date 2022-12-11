@@ -16,7 +16,4 @@ namespace Comp306GroupProject.ViewModels
         public bool RememberMe { get; set; }
     }
 }
-<<<<<<< HEAD
-=======
-}
->>>>>>> 2df8ae2273c454fa7fe3355cc122d1ee5096595f
+
