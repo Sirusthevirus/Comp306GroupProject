@@ -1,0 +1,6 @@
+﻿@inject SignInManager<IdentityUser> SignInManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <h3>Welcome @User.Identity.Name. You are logged in.</h3>
+}
